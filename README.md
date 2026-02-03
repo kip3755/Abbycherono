@@ -102,7 +102,7 @@ The dataset contains **anonymized pharmacy operational data** from an **Active H
 
 ## Dashboard & Visualizations
 
-### Centre 1 Pharmacy Dashboard
+## Centre 1 Dashboard Preview
 
 ![Centre 1 Dashboard Preview](images/Centre%201%20dashboard_preview.png%20%20\(1\).png)
 
@@ -114,9 +114,7 @@ The dataset contains **anonymized pharmacy operational data** from an **Active H
 
 
 
-### Centre 2 Pharmacy Dashboard
-
-Here's a preview of the **Centre 2 Dashboard**:
+## Centre 1 Dashboard Preview
 
 ![Centre 2 Dashboard Preview](images/Centre%202%20%20dashboard_preview.png%20(1).png)
 
